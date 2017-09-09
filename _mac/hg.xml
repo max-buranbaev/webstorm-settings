@@ -1,0 +1,10 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="/usr/local/bin/hg" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="phab.cogia.de/diffusion/WEBGUI/gui/" value="m.buranbaev" />
+      </map>
+    </option>
+  </component>
+</application>
